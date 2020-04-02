@@ -1,4 +1,4 @@
-package com.woz.locationoneapk;
+package com.woz.location;
 
 import org.junit.Test;
 

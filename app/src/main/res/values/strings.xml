@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HuaweiGoogleLocation</string>
+    <string name="app_name">huawei-google-location</string>
 
     <string name="location_permission_denied">Location permissions denied,
         please enable the permissions to use this app.
